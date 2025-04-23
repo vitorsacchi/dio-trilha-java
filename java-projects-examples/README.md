@@ -1,18 +1,10 @@
-## Getting Started
+# Java Projects Examples
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório foi criado com o objetivo de consolidar estudos sobre a linguagem Java. Aqui você encontrará exemplos práticos e explicações sobre:
 
-## Folder Structure
+- **Operadores**: Demonstrações de operadores aritméticos, lógicos, relacionais e mais.
+- **Tipos de Dados**: Exemplos de uso de tipos primitivos e objetos em Java.
+- **Estruturas de Controle**: Exemplos de condicionais e loops.
+- **Outros Conceitos**: Implementações de conceitos fundamentais da linguagem.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Este repositório é ideal para quem está iniciando ou revisando conceitos básicos de Java. Explore os exemplos e pratique para reforçar seu aprendizado!
